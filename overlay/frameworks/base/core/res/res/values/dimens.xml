@@ -25,7 +25,7 @@
     <dimen name="status_bar_height_portrait">36.599976dip</dimen>
 
     <!-- Radius of the software rounded corners. -->
-    <dimen name="rounded_corner_radius">8dp</dimen>
+    <dimen name="rounded_corner_radius">140px</dimen>
 
     <!-- The bottom margin of the keyguard security container -->
     <dimen name="kg_security_container_min_bottom_margin">625px</dimen>
